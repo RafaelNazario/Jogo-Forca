@@ -1,4 +1,4 @@
 # Jogo da Forca
 > Status: Concluído 
 
-Projeto desenvolvido para estudos de C++
+Projeto desenvolvido para estudo de C++
